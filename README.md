@@ -2,7 +2,7 @@
 <br>
 🖥️ I'm dedicated to make beautiful things on the front-end. 
 <br>
-📚 I learned HTML, CSS/SCSS, Vanilla JS, Vue JS and  SQLight.
+📚 I know HTML, CSS/SCSS, Vanilla JS, Vue JS and  SQLight.
 <br>
 🌱  I’m currently learning Three.js
 <br>
